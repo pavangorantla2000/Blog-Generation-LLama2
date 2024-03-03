@@ -3,7 +3,7 @@
 This project utilizes the LLama2 7b parameter model for generating blogs.<br /> 
 The generated content is presented through a basic web interface created using Streamlit.<br /> 
 
-![Blog-Generation-LLama2](/Generate_Blogs.pdf)
+![Blog-Generation-LLama2](/blog.jpg)
 
 ## Highlights <br /> 
 Model: LLama2 7b parameter model <br /> 
